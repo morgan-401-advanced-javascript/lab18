@@ -6,10 +6,11 @@
 * [submission PR](https://github.com/morgan-401-advanced-javascript/lab18/pull/1)
 * [Code Sandbox](https://codesandbox.io/s/gifted-cherry-c6ghx)
 
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+### How to Run
+Add unique input to the form fields and the MadLib will generate with user input below. 
+
+### Notes
+I am still working on faker. Clicking Fake it will break the app at this time
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML](./assets/uml.png)
